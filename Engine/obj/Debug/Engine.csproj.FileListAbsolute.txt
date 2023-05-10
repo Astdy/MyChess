@@ -1,0 +1,12 @@
+E:\visual prodgect\Chess\Engine\bin\Debug\Engine.dll
+E:\visual prodgect\Chess\Engine\bin\Debug\Engine.pdb
+E:\visual prodgect\Chess\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+E:\visual prodgect\Chess\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+E:\visual prodgect\Chess\Engine\obj\Debug\Engine.dll
+E:\visual prodgect\Chess\Engine\obj\Debug\Engine.pdb
+G:\visual prodgect\Chess\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+G:\visual prodgect\Chess\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+G:\visual prodgect\Chess\Engine\obj\Debug\Engine.dll
+G:\visual prodgect\Chess\Engine\obj\Debug\Engine.pdb
+G:\visual prodgect\Chess\Engine\bin\Debug\Engine.dll
+G:\visual prodgect\Chess\Engine\bin\Debug\Engine.pdb
